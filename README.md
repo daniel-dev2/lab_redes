@@ -6,9 +6,17 @@
 O objetivo do projeto é apresentar uma planta de laboratório de redes em um condomínio de forma simplificada e funcional.
 
 ## Documentos técnicos
-planta_lab.png: O arquivo de imagem da planta escolhida para o laboratório. Link da imagem: [https://geotecnia.ufes.br/sites/geotecnia.ufes.br/files/imagem/imagem_unidade_1.png ](https://geotecnia.ufes.br/sites/geotecnia.ufes.br/files/imagem/imagem_unidade_1.png)
-
-_Insira os documentos necessários para seu projeto de redes_
-_Arquivo Dockerfile deve vir na raiz do repositório_
+**planta_lab.png:** O arquivo de imagem da planta escolhida para o laboratório. Link da imagem: [https://geotecnia.ufes.br/sites/geotecnia.ufes.br/files/imagem/imagem_unidade_1.png ](https://geotecnia.ufes.br/sites/geotecnia.ufes.br/files/imagem/imagem_unidade_1.png)  
+**custos_lab_redes.xlsm:** Planilha de custos do projeto estimados com base em preços de equipamentos em varejistas online.  
+**index.html:** O arquivo índice da página web do projeto.  
+**lab_redes.drawio:** Arquivo de diagrama do projeto.  
+**lab_redes.png:** Arquivo de imagem do diagrama de rede.  
+**projeto-lab-ccbs.pdf:** Relatório gerado em PDF pelo Omada Design Hub  
+**style.css:** Arquivo de estilização da página principal.  
+**Dockerfile:** Dockerfile do projeto  
 
 ## Links do site de demonstração
+http://98.81.157.122
+
+## Repositório alternativo
+https://github.com/daniel-dev2/lab_redes
