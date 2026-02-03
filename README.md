@@ -16,7 +16,7 @@ O objetivo do projeto é apresentar uma planta de laboratório de redes em um co
 **Dockerfile:** Dockerfile do projeto  
 
 ## Links do site de demonstração
-http://98.81.157.122
+http://3.217.160.17
 
 ## Repositório alternativo
 https://github.com/daniel-dev2/lab_redes
